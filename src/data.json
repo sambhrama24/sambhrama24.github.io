@@ -1,0 +1,23 @@
+{
+    "lists": [
+      {
+        "id": 1,
+        "name": "List A",
+        "items": [
+          {"id": 101, "name": "First Item"},
+          {"id": 102, "name": "Item A2"},
+          {"id": 103, "name": "Item A3"}
+        ]
+      },
+      {
+        "id": 2,
+        "name": "List B",
+        "items": [
+          {"id": 201, "name": "Item B1"},
+          {"id": 202, "name": "Item B2"},
+          {"id": 203, "name": "Item B3"}
+        ]
+      }
+    ]
+  }
+  
